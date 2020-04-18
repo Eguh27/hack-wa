@@ -42,3 +42,6 @@ def maii():
 
 if __name__ == '__main__':
     maii()
+
+#Lo Semua Tololl!!!
+#hahaha
